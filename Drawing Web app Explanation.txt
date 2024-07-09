@@ -1,0 +1,12 @@
+this project is a simple drawing app created using html, css, js. this app alows user to draw on a canvas either in mouse or touch input on a mobile . users can choose drawing color using color picker, and also users can download thier drawings in image format
+
+i used canvas where the drawing takes place and canvas were the new feature which comes in html5 version additionaly there is a UI with a color picker and i add two buttons namely clear and save 
+
+the clear button is used for clear the entire canvas where the drawing takes place 
+
+and the save button is used download the users drawing as images.
+
+and the logic of drawing is in the app is tracks the drawing state and coordiantes using variables .
+event listeners are added to handle mouse and touch events for drawing initiation, continuation and termination.
+
+my drawing web app offers a user-friendly platform for creating digital sketches . users can draw, choose colors, and save thier artwork effortlessly. my project is to created an interactive and visually engaging web application for both desktop and mobile users.																									
